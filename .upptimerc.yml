@@ -10,7 +10,7 @@ sites:
   - name: chest
     url: $GG
   - name: office
-    url: $office
+    url: $OFFICE
 
 assignees:
   - OctopusET
