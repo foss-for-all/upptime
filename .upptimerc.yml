@@ -3,9 +3,9 @@ owner: foss-for-all # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: MainWebsite
+  - name: fossforall.org
     url: https://fossforall.org
-  - name: 2025 Conference
+  - name: 2025.fossforall.org
     url: https://2025.fossforall.org
   - name: chest
     url: $GG
