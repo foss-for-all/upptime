@@ -23,12 +23,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "FOSS for All System status"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: 포스포올(FOSS for All) 에서 운영중인 온라인 서비스 운영 상태를 아래에서 확인하실 수 있습니다. Check status of online services operated by FOSS for All below. 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: fossforall.org
+      href: https://fossforall.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
