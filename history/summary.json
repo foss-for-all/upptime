@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 525,
-    "timeDay": 206,
+    "time": 524,
+    "timeDay": 234,
     "timeWeek": 219,
     "timeMonth": 221,
-    "timeYear": 525,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2025-06-30": 45
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 528,
-    "timeDay": 305,
-    "timeWeek": 301,
+    "time": 527,
+    "timeDay": 259,
+    "timeWeek": 287,
     "timeMonth": 297,
-    "timeYear": 528,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-06-30": 44
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1161,
-    "timeDay": 843,
-    "timeWeek": 808,
+    "timeDay": 1099,
+    "timeWeek": 857,
     "timeMonth": 911,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -70,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "96.57%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.57%",
+    "uptimeYear": "96.58%",
     "time": 1021,
-    "timeDay": 654,
-    "timeWeek": 652,
-    "timeMonth": 737,
+    "timeDay": 955,
+    "timeWeek": 704,
+    "timeMonth": 742,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2026-03-18": 895,
