@@ -5,15 +5,27 @@ repo: upptime # The name of this repository
 sites:
   - name: fossforall.org
     url: https://fossforall.org
-  - name: 2025.fossforall.org
-    url: https://2025.fossforall.org
   - name: chest
     url: $GG
   - name: office
     url: $OFFICE
+  - name: Single Sign On
+    url: https://sso.fossforall.org
+  - name: Forum
+    url: https://forum.fossforall.org
+  - name: 2025.fossforall.org
+    url: https://2025.fossforall.org
+  - name: 2026.fossforall.org
+    url: https://2026.fossforall.org
+  
 
 assignees:
   - OctopusET
+  - ppiyakk2
+  - twinstae
+  - malkoG
+  - depth221
+  - sideseal
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
