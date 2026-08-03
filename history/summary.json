@@ -94,18 +94,20 @@
     "url": "https://forum.fossforall.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.fossforall.org.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 663,
-    "timeWeek": 660,
-    "timeMonth": 701,
-    "timeYear": 713,
-    "dailyMinutesDown": {}
+    "time": 705,
+    "timeDay": 534,
+    "timeWeek": 628,
+    "timeMonth": 692,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2026-08-03": 0
+    }
   },
   {
     "name": "2025.fossforall.org",
