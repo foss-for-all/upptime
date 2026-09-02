@@ -76,9 +76,9 @@
     "url": "https://sso.fossforall.org",
     "icon": "https://icons.duckduckgo.com/ip3/sso.fossforall.org.ico",
     "slug": "single-sign-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 676,
     "timeMonth": 636,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-02": 0
+    }
   },
   {
     "name": "Forum",
