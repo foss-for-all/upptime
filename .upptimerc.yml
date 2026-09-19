@@ -5,19 +5,32 @@ repo: upptime # The name of this repository
 sites:
   - name: fossforall.org
     url: https://fossforall.org
-  - name: chest
-    url: $GG
-  - name: office
-    url: $OFFICE
   - name: Single Sign On
-    url: https://sso.fossforall.org
+    url: https://sso.fossforall.org/realms/fossforall/.well-known/openid-configuration
   - name: Forum
-    url: https://forum.fossforall.org
+    url: https://forum.fossforall.org/srv/status
+  - name: pretalx
+    url: https://pretalx.fossforall.org
   - name: 2025.fossforall.org
     url: https://2025.fossforall.org
   - name: 2026.fossforall.org
     url: https://2026.fossforall.org
-  
+  - name: Nextcloud
+    url: $NEXTCLOUD
+  - name: Immich
+    url: $IMMICH
+  - name: Kanboard
+    url: $KANBOARD
+    expectedStatusCodes:
+      - 200
+      - 302
+  - name: Vaultwarden
+    url: $VAULTWARDEN
+  - name: Documenso
+    url: $DOCUMENSO
+    expectedStatusCodes:
+      - 200
+      - 302
 
 assignees:
   - OctopusET
