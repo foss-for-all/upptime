@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 520,
-    "timeWeek": 350,
-    "timeMonth": 270,
-    "timeYear": 388,
+    "timeDay": 432,
+    "timeWeek": 340,
+    "timeMonth": 269,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "single-sign-on",
     "status": "up",
     "uptime": "78.95%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.03%",
     "uptimeMonth": "44.53%",
     "uptimeYear": "78.95%",
-    "time": 626,
-    "timeDay": 642,
-    "timeWeek": 642,
-    "timeMonth": 650,
-    "timeYear": 626,
+    "time": 625,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 644,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2026-09-19": 1167,
       "2026-09-18": 1440,
@@ -65,11 +65,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 727,
-    "timeDay": 534,
-    "timeWeek": 725,
-    "timeMonth": 728,
-    "timeYear": 727,
+    "time": 726,
+    "timeDay": 570,
+    "timeWeek": 716,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2026-08-03": 90
     }
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 451,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "time": 504,
+    "timeDay": 504,
+    "timeWeek": 504,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 311,
-    "timeWeek": 261,
-    "timeMonth": 265,
+    "timeDay": 310,
+    "timeWeek": 266,
+    "timeMonth": 266,
     "timeYear": 395,
     "dailyMinutesDown": {}
   },
@@ -122,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 296,
-    "timeWeek": 189,
-    "timeMonth": 197,
+    "timeDay": 240,
+    "timeWeek": 183,
+    "timeMonth": 195,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "14.46%",
-    "uptimeDay": "14.46%",
-    "uptimeWeek": "14.46%",
-    "uptimeMonth": "14.46%",
-    "uptimeYear": "14.46%",
+    "uptime": "6.54%",
+    "uptimeDay": "6.54%",
+    "uptimeWeek": "6.54%",
+    "uptimeMonth": "6.54%",
+    "uptimeYear": "6.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1
+      "2026-09-19": 3
     }
   },
   {
@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "17.33%",
-    "uptimeDay": "17.33%",
-    "uptimeWeek": "17.33%",
-    "uptimeMonth": "17.33%",
-    "uptimeYear": "17.33%",
+    "uptime": "6.99%",
+    "uptimeDay": "6.99%",
+    "uptimeWeek": "6.99%",
+    "uptimeMonth": "6.99%",
+    "uptimeYear": "6.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1
+      "2026-09-19": 3
     }
   },
   {
@@ -174,18 +174,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
     "status": "down",
-    "uptime": "22.59%",
-    "uptimeDay": "22.59%",
-    "uptimeWeek": "22.59%",
-    "uptimeMonth": "22.59%",
-    "uptimeYear": "22.59%",
+    "uptime": "7.80%",
+    "uptimeDay": "7.80%",
+    "uptimeWeek": "7.80%",
+    "uptimeMonth": "7.80%",
+    "uptimeYear": "7.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1
+      "2026-09-19": 2
     }
   },
   {
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "31.63%",
-    "uptimeDay": "31.63%",
-    "uptimeWeek": "31.63%",
-    "uptimeMonth": "31.63%",
-    "uptimeYear": "31.63%",
+    "uptime": "8.80%",
+    "uptimeDay": "8.80%",
+    "uptimeWeek": "8.80%",
+    "uptimeMonth": "8.80%",
+    "uptimeYear": "8.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 0
+      "2026-09-19": 2
     }
   },
   {
@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "documenso",
     "status": "down",
-    "uptime": "50.62%",
-    "uptimeDay": "50.62%",
-    "uptimeWeek": "50.62%",
-    "uptimeMonth": "50.62%",
-    "uptimeYear": "50.62%",
+    "uptime": "9.99%",
+    "uptimeDay": "9.99%",
+    "uptimeWeek": "9.99%",
+    "uptimeMonth": "9.99%",
+    "uptimeYear": "9.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 0
+      "2026-09-19": 2
     }
   }
 ]
