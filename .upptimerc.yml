@@ -17,8 +17,6 @@ sites:
     url: https://2026.fossforall.org
   - name: Nextcloud
     url: $NEXTCLOUD
-  - name: Immich
-    url: $IMMICH
   - name: Kanboard
     url: $KANBOARD
     expectedStatusCodes:
