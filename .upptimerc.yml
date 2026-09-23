@@ -15,8 +15,8 @@ sites:
     url: https://2025.fossforall.org
   - name: 2026.fossforall.org
     url: https://2026.fossforall.org
-  - name: Nextcloud
-    url: $NEXTCLOUD
+  - name: OpenCloud
+    url: $OPENCLOUD
   - name: Kanboard
     url: $KANBOARD
     expectedStatusCodes:
