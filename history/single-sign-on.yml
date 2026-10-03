@@ -1,7 +1,7 @@
 url: https://sso.fossforall.org/realms/fossforall/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 598
-lastUpdated: 2026-10-02T02:02:22.465Z
+responseTime: 549
+lastUpdated: 2026-10-03T01:46:12.344Z
 startTime: 2026-07-01T15:37:40.366Z
 generator: Upptime <https://github.com/upptime/upptime>
