@@ -30,7 +30,7 @@ sites:
       - 200
       - 302
   - name: Galene (Video Conference)
-    url: $GALANE
+    url: $GALENE
 
 assignees:
   - OctopusET
