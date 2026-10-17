@@ -29,6 +29,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 302
+  - name: Galene (Video Conference)
+    url: $GALANE
 
 assignees:
   - OctopusET
@@ -39,7 +41,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fossforall.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/foss-for-all/logo-artworks/refs/heads/master/gradient/logo.svg
   name: Upptime
   introTitle: "FOSS for All System status"
   introMessage: 포스포올(FOSS for All) 에서 운영중인 온라인 서비스 운영 상태를 아래에서 확인하실 수 있습니다. Check status of online services operated by FOSS for All below. 
