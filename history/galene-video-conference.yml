@@ -1,7 +1,7 @@
 url: $GALENE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-17T23:17:21.128Z
+status: up
+code: 200
+responseTime: 556
+lastUpdated: 2026-10-17T23:22:14.259Z
 startTime: 2026-10-17T23:13:37.406Z
 generator: Upptime <https://github.com/upptime/upptime>
