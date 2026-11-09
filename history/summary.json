@@ -13,7 +13,7 @@
     "time": 424,
     "timeDay": 184,
     "timeWeek": 166,
-    "timeMonth": 352,
+    "timeMonth": 357,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.fossforall.org.ico",
     "slug": "single-sign-on",
     "status": "up",
-    "uptime": "87.06%",
+    "uptime": "87.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.06%",
+    "uptimeYear": "87.07%",
     "time": 656,
     "timeDay": 705,
     "timeWeek": 700,
-    "timeMonth": 740,
+    "timeMonth": 746,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2026-09-19": 1167,
@@ -68,7 +68,7 @@
     "time": 708,
     "timeDay": 697,
     "timeWeek": 722,
-    "timeMonth": 720,
+    "timeMonth": 726,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2026-08-03": 90
@@ -88,7 +88,7 @@
     "time": 679,
     "timeDay": 705,
     "timeWeek": 683,
-    "timeMonth": 705,
+    "timeMonth": 710,
     "timeYear": 679,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "time": 425,
     "timeDay": 227,
     "timeWeek": 210,
-    "timeMonth": 283,
+    "timeMonth": 280,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -124,7 +124,7 @@
     "time": 213,
     "timeDay": 205,
     "timeWeek": 202,
-    "timeMonth": 222,
+    "timeMonth": 223,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -142,7 +142,7 @@
     "time": 566,
     "timeDay": 673,
     "timeWeek": 673,
-    "timeMonth": 576,
+    "timeMonth": 578,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2026-09-23": 3
@@ -182,7 +182,7 @@
     "time": 699,
     "timeDay": 669,
     "timeWeek": 722,
-    "timeMonth": 686,
+    "timeMonth": 687,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2026-09-19": 100
@@ -202,7 +202,7 @@
     "time": 1276,
     "timeDay": 1326,
     "timeWeek": 1317,
-    "timeMonth": 1231,
+    "timeMonth": 1227,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-09-19": 100
@@ -214,11 +214,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "galene-video-conference",
     "status": "up",
-    "uptime": "74.06%",
-    "uptimeDay": "0.02%",
+    "uptime": "74.11%",
+    "uptimeDay": "4.35%",
     "uptimeWeek": "18.02%",
-    "uptimeMonth": "74.06%",
-    "uptimeYear": "74.06%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "74.11%",
     "time": 5378,
     "timeDay": 1279,
     "timeWeek": 15000,
