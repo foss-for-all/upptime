@@ -13,8 +13,8 @@
     "time": 414,
     "timeDay": 187,
     "timeWeek": 171,
-    "timeMonth": 231,
-    "timeYear": 313,
+    "timeMonth": 221,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://sso.fossforall.org/realms/fossforall/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/sso.fossforall.org.ico",
     "slug": "single-sign-on",
-    "status": "up",
-    "uptime": "87.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.82%",
-    "time": 651,
-    "timeDay": 622,
-    "timeWeek": 565,
-    "timeMonth": 613,
-    "timeYear": 651,
+    "uptimeYear": "87.90%",
+    "time": 649,
+    "timeDay": 552,
+    "timeWeek": 555,
+    "timeMonth": 617,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2026-09-19": 1167,
       "2026-09-18": 1440,
@@ -51,7 +51,8 @@
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
-      "2026-09-02": 92
+      "2026-09-02": 92,
+      "2026-11-18": 0
     }
   },
   {
@@ -68,7 +69,7 @@
     "time": 698,
     "timeDay": 489,
     "timeWeek": 544,
-    "timeMonth": 604,
+    "timeMonth": 607,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2026-08-03": 90
@@ -88,7 +89,7 @@
     "time": 666,
     "timeDay": 536,
     "timeWeek": 581,
-    "timeMonth": 592,
+    "timeMonth": 604,
     "timeYear": 666,
     "dailyMinutesDown": {}
   },
@@ -106,8 +107,8 @@
     "time": 419,
     "timeDay": 157,
     "timeWeek": 256,
-    "timeMonth": 276,
-    "timeYear": 322,
+    "timeMonth": 283,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -124,7 +125,7 @@
     "time": 212,
     "timeDay": 155,
     "timeWeek": 197,
-    "timeMonth": 219,
+    "timeMonth": 210,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -142,7 +143,7 @@
     "time": 556,
     "timeDay": 463,
     "timeWeek": 491,
-    "timeMonth": 552,
+    "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2026-09-23": 3
@@ -162,7 +163,7 @@
     "time": 1221,
     "timeDay": 991,
     "timeWeek": 1071,
-    "timeMonth": 1171,
+    "timeMonth": 1187,
     "timeYear": 1221,
     "dailyMinutesDown": {
       "2026-09-19": 101
@@ -182,7 +183,7 @@
     "time": 676,
     "timeDay": 470,
     "timeWeek": 526,
-    "timeMonth": 644,
+    "timeMonth": 647,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2026-09-19": 100
@@ -202,7 +203,7 @@
     "time": 1252,
     "timeDay": 1011,
     "timeWeek": 1106,
-    "timeMonth": 1177,
+    "timeMonth": 1190,
     "timeYear": 1252,
     "dailyMinutesDown": {
       "2026-09-19": 100
@@ -214,15 +215,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "galene-video-conference",
     "status": "up",
-    "uptime": "81.03%",
+    "uptime": "81.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.03%",
-    "uptimeYear": "81.03%",
+    "uptimeMonth": "81.14%",
+    "uptimeYear": "81.56%",
     "time": 4326,
     "timeDay": 947,
     "timeWeek": 1055,
-    "timeMonth": 4326,
+    "timeMonth": 4568,
     "timeYear": 4326,
     "dailyMinutesDown": {
       "2026-10-17": 3,
